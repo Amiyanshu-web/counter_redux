@@ -72,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Styling
 
 This section has moved here: [https://facebook.github.io/create-react-app.dev/docs/getting-started](https://create-react-app.dev/docs/adding-a-stylesheet)
+
+### Testing
+
+It uses [Jest](https://jestjs.io/) as its test runner.<br>
+This section has moved here: [https://facebook.github.io/create-react-app.dev/docs/running-tests](https://create-react-app.dev/docs/running-tests)
